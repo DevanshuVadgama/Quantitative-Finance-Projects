@@ -15,6 +15,7 @@ The portfolio consists of five different assets:
 Historical price data is used to calculate returns, study volatility, estimate Value at Risk, and test the performance of different risk models. The project also includes a separate section on European option pricing using simulated GBM paths, calculation of option Greeks, and a simple delta-neutral hedging strategy.
 
 The data for the portfolio analysis covers **June 2019 to June 2024**.
+This project closely aligns with the assignment of FRAM course of BITS Pilani Hyderabad Campus and a few contribuitions were made from my side (correcting some statistical tests and delta hedging).
 
 ---
 
