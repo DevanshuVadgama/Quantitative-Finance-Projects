@@ -97,5 +97,3 @@ with the additional constraint \(0\le w_i\le 1\) (no short sales). The resulting
 `yfinance`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `pmdarima`, `arch`.
 
 ---
-
-### Files
